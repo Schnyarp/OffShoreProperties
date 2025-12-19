@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://offshore.properties/sitemap.xml
